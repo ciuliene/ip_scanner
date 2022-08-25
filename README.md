@@ -1,4 +1,4 @@
-# IP_SCANNER
+# IP Scanner
 
 Scan your local network, discover other IP addresses and, if exists, also the DNS for each IP.
 
