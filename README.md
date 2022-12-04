@@ -39,3 +39,7 @@ At first, the script gets the local IP address. Then it begin the network scan, 
 Furthermore, for each IP address, it tries to get the DNS and, if it exists, prints it.
 
 The script will print to the stdout the result of the scan and save it in a local file called log.txt
+
+## Extra
+
+There is another file (scan.sh) that scans the network using shell commands. It's just an alternative script.
